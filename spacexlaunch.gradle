@@ -1,0 +1,15 @@
+ext{
+    minSdkVersion = 21
+    targetSdkVersion = 28
+    compileSdkVersion = 28
+    supportVersion = '1.0.0'
+    retrofitVersion = "2.6.0"
+    gsonVersion = "2.8.5"
+    archComponentVersion = '2.0.0'
+    work_version = "2.1.0"
+    lifecycle_version="1.1.1"
+    debug_youtube_key='"AIzaSyB49MD7Pe95p3zAn25igPYAbIiSK91bCp0"'
+    debug_base_url='"https://api.spacexdata.com"'
+    release_youtube_key='"AIzaSyB49MD7Pe95p3zAn25igPYAbIiSK91bCp0"'
+    release_base_url='"https://api.spacexdata.com"'
+}

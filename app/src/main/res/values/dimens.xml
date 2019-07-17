@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_view_header_size">18sp</dimen>
+    <dimen name="margin_between_item">10dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="subheader_text_size">12sp</dimen>
+    <dimen name="card_view_margin">8dp</dimen>
+    <dimen name="card_corner_radius">2dp</dimen>
+    <dimen name="card_radius">10dp</dimen>
+    <dimen name="wait_message_size">16dp</dimen>
+
+    <dimen name="youtube_subheader_text_size">16sp</dimen>
+    <dimen name="youtube_dimen">20dp</dimen>
+    <dimen name="textpadding_top">2dp</dimen>
+</resources>
+

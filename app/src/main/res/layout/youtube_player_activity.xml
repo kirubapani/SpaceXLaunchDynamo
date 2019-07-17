@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical"
+    tools:showIn="@layout/activity_main"
+    android:weightSum="1.0"
+    android:background="@color/cardview_dark_background"
+    android:paddingTop="@dimen/youtube_dimen"
+    >
+   <!-- <include layout="@layout/tool_bar_layout" /> -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/card_view_margin"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="@dimen/youtube_dimen">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_rocketName"
+                android:layout_gravity="left"
+                android:textColor="@android:color/white"
+                android:background="@android:color/transparent"
+                android:textSize="@dimen/list_view_header_size"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:paddingLeft="@dimen/card_view_margin"
+                android:paddingTop="@dimen/textpadding_top"
+                android:text="Rocket Name"
+                android:id="@+id/tv_launch_date"
+                android:textColor="@android:color/white"
+                android:background="@android:color/transparent"
+                android:textSize="@dimen/subheader_text_size"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_launch_details"
+            android:textColor="@android:color/white"
+            android:background="@android:color/transparent"
+            android:textSize="@dimen/wait_message_size"
+            android:layout_marginBottom="@dimen/margin_top"
+            android:lines="3"
+            />
+
+
+    </LinearLayout>
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:id="@+id/youtube_view"
+        android:layout_gravity="top"
+        android:foregroundGravity="top"
+        android:background="@color/cardview_dark_background"
+        >
+    </com.google.android.youtube.player.YouTubePlayerView>
+
+
+</LinearLayout>

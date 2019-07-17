@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/spacex_blue</color>
+    <color name="colorPrimaryDark">@color/spacex_blue</color>
+    <color name="colorAccent">@color/spacex_teal</color>
+
+    <color name="spacex_blue">#0076CE</color>
+    <color name="spacex_teal">#42AEAF</color>
+
+</resources>

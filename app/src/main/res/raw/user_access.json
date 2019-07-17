@@ -1,0 +1,756 @@
+{
+  "status": "OK",
+  "code": 200,
+  "message": "SUCCESS",
+  "result": [
+    {
+      "userId": "sahoos16",
+      "reportSelection": "WW Dell",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "WW Dell - Direct",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "WW Dell - Channel",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Channel ES+CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Enterprise Sales",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ES - CSG",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ES - ISG",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "AMER ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "NA ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "LA ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "EMEA ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "APJ ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Commercial Sales",
+      "access": 1,
+      "defaultScreen": 1,
+      "defaultOrder": 1
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CS - CSG",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CS - ISG",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CS - Direct",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CS - Channel",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "NA CS",
+      "access": 1,
+      "defaultScreen": 1,
+      "defaultOrder": 2
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US Central",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US West",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US East",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US Acq",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US MB",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US Unallocated",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "US FED",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CAN CS",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "LA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Brazil CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Mexico CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "NOLA",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Andean",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "South Cone",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "EMEA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "UKI CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "France CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Germany CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Western",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CEE",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "META",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "APJ CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ANZ CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "India CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Japan CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Asia Emerging Market",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Indochina",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "South Asia Korea",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Greater China CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China Vertical",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China Mature",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China Emerging",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China Dist",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China Global Account",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China Unallocated",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Hong Kong",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Taiwan",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "NA CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "LA CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "EMEA CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "APJ CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "China CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "GDO",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSB - CSG",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSB - ISG",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Commercial PC",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Consumer PC",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Non PC",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Thin Client",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG Non-Tied Svc",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG S&P",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - Enterprise Sales",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - AMER ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - EMEA ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - APJ ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - Commercial Sales",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - NA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - LA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - EMEA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - APJ CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - GC CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - Direct",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "CSG - Channel",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Storage",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Converged",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Data Protection",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Servers",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "PowerEdge",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Cloud Servers",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "Networking",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "EI",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG Non-Tied SVC",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - Enterprise Sales",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - AMER ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - EMEA ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - APJ ES",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - Commercial Sales",
+      "access": 1,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - NA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - LA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - EMEA CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - APJ CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - GC CS",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - CSB",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - Direct",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    },
+    {
+      "userId": "sahoos16",
+      "reportSelection": "ISG - Channel",
+      "access": 0,
+      "defaultScreen": 0,
+      "defaultOrder": 0
+    }
+  ]
+}
